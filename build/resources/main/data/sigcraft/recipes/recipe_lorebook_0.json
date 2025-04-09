@@ -1,0 +1,13 @@
+{
+  "group": "sigcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    }
+  ],
+  "result": {
+    "item": "sigcraft:lorebook_0",
+    "count": 1
+  }
+}

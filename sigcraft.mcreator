@@ -1,0 +1,72 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "SigcraftCreativeTab",
+      "type": "tab",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sigcraft_creative_tab"
+    },
+    {
+      "name": "GuiLorebook0",
+      "type": "gui",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gui_lorebook_0"
+    },
+    {
+      "name": "Lorebook0",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lorebook_0"
+    },
+    {
+      "name": "RecipeLorebook0",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_lorebook_0"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.sigcraft.lorebook_0": "Mysteries of the World vol 1",
+      "itemGroup.tabsigcraft_creative_tab": "SigCraft"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "sigcraft",
+    "modName": "SigCraft",
+    "version": "0.0.1",
+    "description": "Alternate Timeline",
+    "author": "Sigvaldr",
+    "websiteURL": "https://notthrafn.com",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "lol.sigvaldr.sigcraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}
